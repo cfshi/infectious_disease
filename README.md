@@ -5,9 +5,7 @@
 
 # news data, sources and article:
 * Data and sources:
-
 - https://www.cdc.gov/coronavirus/index.html
-
 * Articles:
 
 - Cholera outbreak in Zimbabwe 2018: https://www.theguardian.com/global-development/2018/sep/20/medieval-cholera-outbreak-exposes-zimbabwe-problems
