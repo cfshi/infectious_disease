@@ -4,7 +4,6 @@
 - "We're never going to be able to stockpile enough drugs for this country for any kind of crisis. One of the things we have to understand is our national vulnerability to this new global sourcing of some critical medical supplies and products. That kind of research has not been ongoing" (https://jamanetwork.com/journals/jama/fullarticle/2705303)
 
 # news data, sources and article:
-
 * Data and sources:
 
 - https://www.cdc.gov/coronavirus/index.html
