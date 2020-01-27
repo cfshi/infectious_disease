@@ -6,6 +6,7 @@
 # news data, sources and article:
 * Data and sources:
   - https://www.cdc.gov/coronavirus/index.html
+  - https://www.vaccineconfidence.org/
 
 * Articles:
 
